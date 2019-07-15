@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 	<title>Cards</title>
+<link rel="stylesheet" type="text/css" href="cards.css">
+</head>
+<body>
+
+	<div class="page_header">	
+		<button id="btn"><a href="logout.php">Sign Out</a></button>
+	</div>
+
+<div class="main">
+ <!--cards -->
+
+	<div class="card">
+
+		<div class="image">
+   			<img src="Butter-chicken-recipe.jpg">
+		</div>
+	
+	<div class="title">
+ 		<h1>Butter Chicken</h1>
+	</div>
+
+	<div class="des">
+ 		<p>Mughlai</p>
+	</div>
+
+	<div class="ratings">
+		<p><font size="2">&#9733 4.5</p>
+	</div>
+	<div class="time">
+		<p><font size="2">40 mins</p>
+	</div>
+	<div class="price">
+		<p><font size="2">&#8377 500 for two</p>
+	</div>
+
+	<div class="cart">
+		<button>Add to Cart</button>
+	</div>
+</div>
+
+
+ <!--cards -->
+
+	<div class="card">
+
+		<div class="image">
+   			<img src="Chicken-Biryani-Instant-Pot-1.jpg">
+		</div>
+	
+	<div class="title">
+ 		<h1>Chicken Biryani</h1>
+	</div>
+
+	<div class="des">
+ 		<p>Indian, Mughlai</p>
+	</div>
+
+	<div class="ratings">
+		<p>&#9733 4.2</p>
+	</div>
+	<div class="time">
+		<p><font size="2">35 mins</p>
+	</div>
+	<div class="price">
+		<p><font size="2">&#8377 550 for two</p>
+	</div>
+
+	<div class="cart">
+		<button>Add to Cart</button>
+	</div>
+</div>
+
+ <!--cards -->
+
+	<div class="card">
+
+		<div class="image">
+   			<img src="shahi_paneer.jpg">
+		</div>
+	
+	<div class="title">
+ 		<h1>Shahi Paneer</h1>
+	</div>
+
+	<div class="des">
+ 		<p>North Indian</p>
+	</div>
+
+	<div class="ratings">
+		<p>&#9733 4.2</p>
+	</div>
+	<div class="time">
+		<p><font size="2">25 mins</p>
+	</div>
+	<div class="price">
+		<p><font size="2">&#8377 350 for two</p>
+	</div>
+
+	<div class="cart">
+		<button>Add to Cart</button>
+	</div>
+</div>
+
+ <!--cards -->
+
+	<div class="card">
+
+		<div class="image">
+   			<img src="shawarma.jpg">
+		</div>
+	
+	<div class="title">
+ 		<h1>Shawarma Special</h1>
+	</div>
+
+	<div class="des">
+ 		<p>North Indian, Lebanese</p>
+	</div>
+
+	<div class="ratings">
+		<p>&#9733 4.6</p>
+	</div>
+	<div class="time">
+		<p><font size="2">20 mins</p>
+	</div>
+	<div class="price">
+		<p><font size="2">&#8377 300 for two</p>
+	</div>
+
+	<div class="cart">
+		<button>Add to Cart</button>
+	</div>
+</div>
+<!--cards -->
+
+</div>
+</body>
+</html>

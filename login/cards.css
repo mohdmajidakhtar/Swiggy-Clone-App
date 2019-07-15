@@ -1,0 +1,103 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+body{
+ font-family: arial;
+}
+.main{
+
+ margin: 2%;
+}
+
+.card{
+     width: 20%;
+     display: inline-block;
+     box-shadow: 2px 2px 20px black;
+     border-radius: 5px; 
+     margin: 2%;
+    }
+
+.image img{
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+ }
+
+.title{
+ 
+  text-align: center;
+  padding: 10px;
+  
+ }
+
+h1{
+  font-size: 20px;
+ }
+
+.des{
+  padding: 3px;
+  text-align: center;
+ 
+  padding-top: 10px;
+        border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.cart{
+  text-align: center;
+}
+button{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding:10px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.ratings{
+  margin-top: 10px;
+  background-color: #33FF86;
+  padding: 4px;
+  margin-left: 2px;
+  margin-right: 207px;
+  border-radius: 5px;
+}
+
+.time{
+  margin-left: 100px;
+  margin-top: -22px;
+}
+
+.price{
+  text-align: right;
+  margin-top: -15px;
+  margin-right: 5px;
+}
+
+.page_header{
+  background-color: #33FF86;
+  text-align: right;
+}
+
+#btn{  
+  margin-top: 5px;
+  margin-bottom: 3px;
+  margin-right: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #006400;
+}
+
+#btn2{
+  margin-top: 5px;
+  margin-right: 100px;
+  color: #006400;
+}
